@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/squirtle-banner.png" width="100%" alt="Felipe Kummer — full-stack developer from Brazil, Ruby at heart, with Squirtle in sunglasses." />
-</p>
-
-<p align="center">
   <a href="https://portfolio-jrpg.vercel.app"><img src="./assets/portfolio.svg" height="36" alt="Explore my portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/felipe-kummer-dev/"><img src="./assets/linkedin.svg" height="36" alt="Connect on LinkedIn" /></a>
