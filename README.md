@@ -10,7 +10,6 @@
   <a href="mailto:felipe.s.kummer@gmail.com"><img src="./assets/email.svg" height="36" alt="Email Felipe" /></a>
 </p>
 
-<h2 align="center">Ruby at heart. Curious by default.</h2>
 
 Hey, I'm **Felipe** 👋 A full-stack web developer from **Brazil**.
 
