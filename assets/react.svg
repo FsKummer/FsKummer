@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="30" viewBox="0 0 85 30" role="img" aria-label="React">
+  <title>React</title>
+  <rect x="0.5" y="0.5" width="84" height="29" rx="7" fill="#111E2C" stroke="#294354"/>
+  <circle cx="16" cy="15" r="3.5" fill="#75DEEC"/>
+  <text x="28" y="15.5" dominant-baseline="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#EAF4F8">React</text>
+</svg>

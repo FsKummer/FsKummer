@@ -1,22 +1,57 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, welcome to my gh.</h1>
+<p align="center">
+  <img src="./assets/squirtle-banner.png" width="100%" alt="Felipe Kummer — full-stack developer from Brazil, Ruby at heart, with Squirtle in sunglasses." />
+</p>
 
-I'm Felipe Kummer, full-stack web dev 👨🏻‍💻 from Brazil. I'm constantly learning and mostly develop in Ruby 💎.
+<p align="center">
+  <a href="https://portfolio-jrpg.vercel.app"><img src="./assets/portfolio.svg" height="36" alt="Explore my portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/felipe-kummer-dev/"><img src="./assets/linkedin.svg" height="36" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:felipe.s.kummer@gmail.com"><img src="./assets/email.svg" height="36" alt="Email Felipe" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+Stack+Web+Dev;)](https://git.io/typing-svg)
+<h2 align="center">Ruby at heart. Curious by default.</h2>
 
-### How to reach me: 
-<a href="mailto: felipe.s.kummer@gmail.com">
-<img src="https://img.shields.io/badge/-felipe.kummer%40outlook.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>    <a href="https://www.linkedin.com/in/felipe-kummer-dev/"><img src="https://img.shields.io/badge/Fkummer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+Hey, I'm **Felipe** 👋 A full-stack web developer from **Brazil**.
 
-### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FsKummer&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=FsKummer&theme=dracula&no-bg=true&row=1"/>
+I mostly build with **Ruby**, and I'm always learning. My projects range from Rails web apps to a playable JRPG portfolio and experiments with Pokémon battle data. The sunglasses stay on. 😎
 
+### My toolkit
 
-### GitHub Highlights: :blossom:
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FsKummer&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FsKummer&theme=material-palenight"/>
-</a>
+<p>
+  <img src="./assets/ruby.svg" height="30" alt="Ruby" />
+  <img src="./assets/rails.svg" height="30" alt="Ruby on Rails" />
+  <img src="./assets/typescript.svg" height="30" alt="TypeScript" />
+  <img src="./assets/react.svg" height="30" alt="React" />
+  <img src="./assets/python.svg" height="30" alt="Python" />
+  <img src="./assets/phaser.svg" height="30" alt="Phaser" />
+</p>
+
+**Ruby & Rails** for web applications. **TypeScript, React & Phaser** for interactive experiences. **Python** for exploring data.
+
+### Selected work
+
+🎮 **[Portfolio RPG](https://github.com/FsKummer/portfolio)**  
+A JRPG-inspired web portfolio. Because exploring a developer's work can be an adventure.  
+`TypeScript` `React` `Phaser 3` `Vite` · **[Enter the world ↗](https://portfolio-jrpg.vercel.app)**
+
+🌊 **[Pokémon VGC Assistant](https://github.com/FsKummer/pokemon-vgc-assistant)**  
+Exploring competitive Pokémon through data, with Python pipelines for Pokémon information and battle logs.  
+`Python` `Data pipelines` `Pokémon VGC`
+
+💎 **[Rails Distance Calculator](https://github.com/FsKummer/rails-distance-calculator)**  
+A distance calculator built with Ruby on Rails.  
+`Ruby` `Rails`
+
+**[Explore all my repositories →](https://github.com/FsKummer?tab=repositories)**
+
+---
+
+<p align="center">
+  <b>Let's talk code, projects, or Pokémon.</b><br />
+  <a href="mailto:felipe.s.kummer@gmail.com">felipe.s.kummer@gmail.com</a>
+  ·
+  <a href="https://www.linkedin.com/in/felipe-kummer-dev/">LinkedIn</a>
+</p>
+
+<p align="center"><sub>Stay curious. Keep evolving. 🌊</sub></p>

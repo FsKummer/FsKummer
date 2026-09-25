@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="36" viewBox="0 0 135 36" role="img" aria-label="Portfolio">
+  <title>Portfolio</title>
+  <rect x="0.5" y="0.5" width="134" height="35" rx="8" fill="#78E3D1" stroke="#78E3D1"/>
+  <g color="#0B2029"><path d="m10 19 5-5-5-5M19 20h6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" transform="translate(2 3)"/></g>
+  <text x="39" y="18.7" dominant-baseline="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#0B2029">Portfolio</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="30" viewBox="0 0 81 30" role="img" aria-label="Rails">
+  <title>Rails</title>
+  <rect x="0.5" y="0.5" width="80" height="29" rx="7" fill="#111E2C" stroke="#294354"/>
+  <circle cx="16" cy="15" r="3.5" fill="#F2859B"/>
+  <text x="28" y="15.5" dominant-baseline="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#EAF4F8">Rails</text>
+</svg>
